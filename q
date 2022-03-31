@@ -23,8 +23,8 @@ public class NagatsuMain{
 			}else{sumB++;
 			}
 		}
-		System.out.printf("%d対%dで",sumA,sumB);
-		System.out.print(sumA>sumB?"A":"B");
-		System.out.println("の勝ち");
+			System.out.printf("%d対%dで",sumA,sumB);
+			System.out.print(sumA>sumB?"A":"B");
+			System.out.println("の勝ち");
 	}
 }
